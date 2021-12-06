@@ -1,4 +1,4 @@
-;Doors NX 1.5 API table
+;Doors NX 1.51 API table
 
 ;sys_plotpixel
 ;Sets a pixel on the screen
